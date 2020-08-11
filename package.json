@@ -1,0 +1,15 @@
+{
+  "name": "ftl-survey-helper",
+  "version": "1.0.0",
+  "description": "A helpful tool to quickly redeem your FTL survey codes to receive new coupons.",
+  "main": "FTL-Survey-Helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "puppeteer": "^5.2.1"
+  }
+}
